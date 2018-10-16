@@ -17,6 +17,8 @@ public class Contornos {
     public static void main(String[] args) {
        System.out.println("Prueba Contornos");
         // TODO code application logic here
+       System.out.println("Prueba Contorno 2");
+        
     }
     
 }
